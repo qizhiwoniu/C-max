@@ -9,4 +9,5 @@ Cmax-China Environment 3Dmax
         标注系统，注释系统，
         动画系统，
         坐标系统，
+        支持鸿蒙系统，
         一款新3D软件
